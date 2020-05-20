@@ -9,7 +9,7 @@
 
 **Este projeto tem como objetivo colocar em prática o conteúdo visto durante o semestre.** <br />
 
-***Tecnologias utiliazadas*** <br />
+***Tecnologias utilizadas:*** <br />
 
 **HTML** <br />
 **Bootstrap** <br />
