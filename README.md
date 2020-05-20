@@ -9,10 +9,10 @@
 
 **Este projeto tem como objetivo colocar em prática o conteúdo visto durante o semestre.** <br />
 
-***Tecnologias utilizadas:*** <br />
+**Tecnologias utilizadas:** <br />
 
-**HTML** <br />
-**Bootstrap** <br />
-**PHP** <br />
-**JQuery** <br />
-**SQL** <br />
+*HTML* <br />
+*Bootstrap* <br />
+*PHP* <br />
+*JQuery* <br />
+*SQL* <br />
