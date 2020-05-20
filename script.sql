@@ -1,0 +1,30 @@
+DROP TABLE IF EXISTS disciplina;
+CREATE TABLE disciplina (
+	id INTEGER PRIMARY KEY AUTO_INCREMENT,
+	disciplina VARCHAR(255)
+) ENGINE = InnoDB AUTO_INCREMENT= 1111 DEFAULT CHARSET=latin1;
+
+DROP TABLE IF EXISTS estudante;
+CREATE TABLE estudante (
+	id INTEGER PRIMARY KEY AUTO_INCREMENT,
+    disciplina VARCHAR(255),
+    nome VARCHAR(255), 
+    cep VARCHAR(255),
+    rua VARCHAR(255),
+    numero VARCHAR(255),
+    bairro VARCHAR(255),
+    cidade VARCHAR(255),
+    estado VARCHAR(255),
+    email VARCHAR(255),
+    telefone VARCHAR(255)
+) ENGINE = InnoDB AUTO_INCREMENT= 222222 DEFAULT CHARSET=latin1;
+
+DROP TABLE IF EXISTS nota;
+CREATE TABLE nota (
+	id INTEGER PRIMARY KEY AUTO_INCREMENT,
+    aluno VARCHAR(255),
+    avaliacao1 VARCHAR(255), 
+    avaliacao2 VARCHAR(255),
+    avaliacao3 VARCHAR(255),
+    disciplina VARCHAR(255)
+);
